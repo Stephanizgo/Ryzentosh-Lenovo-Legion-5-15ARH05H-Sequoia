@@ -1,10 +1,10 @@
-# Lenovo Legion 5 15ARH05A Ryzentosh
+# Lenovo Legion 5 15ARH05H Ryzentosh
 
-This repository contains the necessary files and instructions to install macOS 15 Sequoia on a Lenovo Legion 5 15ARH05A using OpenCore.
+This repository contains the necessary files and instructions to install macOS 15 Sequoia on a Lenovo Legion 5 15ARH05H using OpenCore.
 
 ## Hardware Specifications
 
-- **Model:** Lenovo Legion 5 15ARH05A
+- **Model:** Lenovo Legion 5 15ARH05H
 - **CPU:** AMD Ryzen 5 5600H
 - **GPU:** NVIDIA Geforce RTX 2060 (we will disable it)
 - **RAM:** 16GB
