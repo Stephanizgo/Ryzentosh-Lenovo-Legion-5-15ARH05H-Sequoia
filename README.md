@@ -5,7 +5,7 @@ This repository contains the necessary files and instructions to install macOS 1
 ## Hardware Specifications
 
 - **Model:** Lenovo Legion 5 15ARH05H
-- **CPU:** AMD Ryzen 5 5600H
+- **CPU:** AMD Ryzen 5 4600H
 - **GPU:** NVIDIA Geforce RTX 2060 (we will disable it)
 - **RAM:** 16GB
 - **Storage:** Western Digital 1TB NVME SSD
